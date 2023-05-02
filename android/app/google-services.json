@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10400003985",
+    "project_id": "connect-cam-project-72db7",
+    "storage_bucket": "connect-cam-project-72db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10400003985:android:ff30dc8a674f00eb3c8c30",
+        "android_client_info": {
+          "package_name": "com.example.connect_cam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10400003985-cbfbmlr4irucaftb9ojl77lvee4mg889.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpgQZ4DqN188e1fNTCvxG-FNnYJ-AW3wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10400003985-a7r6rcc7j2it6mncdqk159pncs8926jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
