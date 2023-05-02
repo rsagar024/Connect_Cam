@@ -26,7 +26,7 @@ Connect Cam is created by Flutter & that works on Android & iOS!
 ## ScreenShot
 
 <p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-zoom-clone/blob/master/screenshot.png" alt="Connect Cam">
+  <img width="600" src="https://github.com/rsagar024/Connect_Cam/blob/master/screenshot.png" alt="Connect Cam">
 </p>
 
 ## Tech Used
